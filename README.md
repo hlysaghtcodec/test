@@ -30,3 +30,7 @@ State transitions (`Fixes AB#123`) only apply to commits reaching the default br
 | Default branch | main |
 
 No Azure Pipelines connection is configured for this repository.
+
+## Test work item
+
+Link validation commits reference work item **#73250** in `Azure.AI.Workbase`.
